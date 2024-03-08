@@ -1,0 +1,21 @@
+﻿  raylib_game.cpp
+C:\Users\onurs\OneDrive\Desktop\Ping-Pong\game\src\ball.h(20,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../game/src/raylib_game.cpp')
+  
+C:\Users\onurs\OneDrive\Desktop\Ping-Pong\game\src\ball.h(20,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../game/src/raylib_game.cpp')
+  
+C:\Users\onurs\OneDrive\Desktop\Ping-Pong\game\src\ball.h(53,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../game/src/raylib_game.cpp')
+  
+C:\Users\onurs\OneDrive\Desktop\Ping-Pong\game\src\ball.h(54,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../game/src/raylib_game.cpp')
+  
+C:\Users\onurs\OneDrive\Desktop\Ping-Pong\game\src\paddle.h(27,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../game/src/raylib_game.cpp')
+  
+C:\Users\onurs\OneDrive\Desktop\Ping-Pong\game\src\paddle.h(27,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '../game/src/raylib_game.cpp')
+  
+C:\Users\onurs\OneDrive\Desktop\Ping-Pong\game\src\raylib_game.cpp(59,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  game-premake-main.vcxproj -> C:\Users\onurs\OneDrive\Desktop\Ping-Pong\bin\Debug\ping-pong.exe
